@@ -139,6 +139,9 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 
 ### Companies
 
+- DevStack
+    - [Watercare IGC Calculator - free JSON API](https://devstack.co.nz/api/icg) - calculates Auckland's water and wastewater Infrastructure Growth Charge per dwelling, current rates
+    - [NZ Property Development Tools Catalogue - free JSON API](https://devstack.co.nz/api/tools) - machine-readable list of NZ property development tools and data sources
 - New Zealand Electricity Industry
 	- [Market Info](http://www.electricityinfo.co.nz/comitFta/ftapage.main)
 - NZ Post
